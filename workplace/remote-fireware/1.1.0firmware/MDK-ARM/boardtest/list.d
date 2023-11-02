@@ -1,0 +1,12 @@
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+boardtest\list.o: D:\mdk503\ARM\ARMCC\Bin\..\include\stdlib.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+boardtest\list.o: D:\mdk503\ARM\ARMCC\Bin\..\include\stddef.h
+boardtest\list.o: D:\mdk503\ARM\ARMCC\Bin\..\include\stdint.h
+boardtest\list.o: ../Core/Inc/FreeRTOSConfig.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+boardtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
